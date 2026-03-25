@@ -47,12 +47,10 @@ background-color: lightcoral;
 width: 25%;
 padding: 20px;
 background-color: lightgoldenrodyellow;
-font-size: mediumpx;
 }
 
 .col-right {
 width: 75%;
-font-size: mediumpx;
 
 display: flex;
 flex-direction: column;
@@ -141,8 +139,6 @@ background-color: darkslategray;
 color: white;
 }
 .col-left, .col-right{
-font-size: 50px;
-}
 footer{
 background-color: lightgreen;
 color: darkgreen;
