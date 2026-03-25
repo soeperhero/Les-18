@@ -47,7 +47,7 @@ background-color: lightcoral;
 width: 25%;
 padding: 20px;
 background-color: lightgoldenrodyellow;
-font-size: medium;
+font-size: 48px;
 }
 
 .col-right {
@@ -140,7 +140,7 @@ background-color: darkslategray;
 color: white;
 }
 .col-left, .col-right{
-font-size: larger;
+font-size: 96px;
 }
 footer{
 background-color: lightgreen;
